@@ -51,5 +51,5 @@ Improve customer experience through faster processing
 **Tech Stack**
 
 Language: Python
-Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, 
 Environment: Google Colab
