@@ -52,4 +52,4 @@ Improve customer experience through faster processing
 
 Language: Python
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
-Environment: Jupyter Notebook / Google Colab
+Environment: Google Colab
